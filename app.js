@@ -5,6 +5,7 @@ let text = document.getElementById('text');
 let btn = document.getElementById('btn');
 let mountainFront = document.getElementById('mountains-front');
 let header = document.querySelector('header');
+let sec = document.getElementById('sec');
 
 window.addEventListener('scroll', function() {
     let value = window.scrollY;

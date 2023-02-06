@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -115,7 +116,7 @@ section img#mountains-front {
     color: #2b1055;
     font-size: 1.5em;
     z-index: 9;
-    transform: translateY(100px);
+    transform: translateY(100px);  
 }
 
 .sec {
